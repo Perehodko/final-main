@@ -1,4 +1,4 @@
-module github.com/Perehodko/hello-golang
+module github.com/Perehodko/final-main
 
 go 1.23.2
 
